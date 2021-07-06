@@ -4,3 +4,4 @@ shapely
 scikit-image
 Numba
 fire
+pillow>=8.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
