@@ -3,3 +3,4 @@ docstring_parser @ http://github.com/willthefrog/docstring_parser/tarball/master
 typeguard ; python_version >= '3.4'
 tb-paddle
 tb-nightly
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
