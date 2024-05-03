@@ -5,7 +5,7 @@ scipy
 unidecode==1.1.1
 inflect==2.1.0
 librosa==0.7.0
-tqdm==4.35.0
+tqdm==4.66.3
 tensorboardX==1.8
 matplotlib
 requests==2.22.0
