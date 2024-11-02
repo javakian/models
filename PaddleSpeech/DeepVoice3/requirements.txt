@@ -12,3 +12,4 @@ requests==2.22.0
 lws==1.2.4
 nnmnkwii
 tensorboard
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
